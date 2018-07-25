@@ -1,3 +1,4 @@
+#written according the psudo code intersection code in class presentation 
 def intersection(dic1_indexes, dic2_indexes):
     p1, p2 = 0, 0
     inter_indexes = []
